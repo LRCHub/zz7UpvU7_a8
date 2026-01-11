@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "檄! 帝国華撃団",
+  "base_artist": "横山 智佐 (真宮寺 さくら) / 富沢 美智恵 (神崎 すみれ) / 高乃 麗 (マリア･タチバナ) / 西原 久美子 (アイリス) / 渕崎 ゆり子 (李 紅蘭) / 田中 真弓 (桐島 カンナ)",
+  "createdAt": "2026-01-11T12:02:17.840200Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "檄! 帝国華撃団",
+      "artist": "真宮寺さくら(横山智佐)/帝国歌劇団",
+      "has_synced": false,
+      "path": "select/01_檄!_帝国華撃団_真宮寺さくら(横山智佐)_帝国歌劇団.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "檄！帝国華撃団",
+      "artist": "帝国歌劇団",
+      "has_synced": false,
+      "path": "select/02_檄!帝国華撃団_帝国歌劇団.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "檄！帝国華撃団",
+      "artist": "真宮寺さくら",
+      "has_synced": true,
+      "path": "select/03_檄!帝国華撃団_真宮寺さくら.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "檄!帝国華撃団",
+      "artist": "東京ブラススタイル",
+      "has_synced": false,
+      "path": "select/04_檄!帝国華撃団_東京ブラススタイル.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "檄！ 帝国華撃団",
+      "artist": "東京ブラス・スタイル",
+      "has_synced": false,
+      "path": "select/05_檄!_帝国華撃団_東京ブラス・スタイル.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "檄!帝国華撃団",
+      "artist": "中川翔子",
+      "has_synced": true,
+      "path": "select/06_檄!帝国華撃団_中川翔子.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "檄!帝国華撃団 (サクラ大戦)",
+      "artist": "横山智佐(真宮寺さくら)&帝国歌劇団",
+      "has_synced": true,
+      "path": "select/07_檄!帝国華撃団_(サクラ大戦)_横山智佐(真宮寺さくら)&帝国歌劇団.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "檄! 帝国華撃団 <新章>",
+      "artist": "佐倉 綾音 (天宮 さくら)",
+      "has_synced": true,
+      "path": "select/08_檄!_帝国華撃団__新章_佐倉_綾音_(天宮_さくら).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "檄!帝国華撃団 (サクラ大戦)",
+      "artist": "横山智佐(真宮寺さくら)",
+      "has_synced": true,
+      "path": "select/09_檄!帝国華撃団_(サクラ大戦)_横山智佐(真宮寺さくら).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ゲキテイ(檄! 帝国華撃団)",
+      "artist": "真宮寺さくら (横山智佐) & 帝国歌劇団",
+      "has_synced": false,
+      "path": "select/10_ゲキテイ(檄!_帝国華撃団)_真宮寺さくら_(横山智佐)_&_帝国歌劇団.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "檄！帝国華撃団",
+      "artist": "中川 翔子",
+      "has_synced": true,
+      "path": "select/11_檄!帝国華撃団_中川_翔子.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "檄! 帝国華撃団 (サクラ大戦)",
+      "artist": "Natsuko",
+      "has_synced": true,
+      "path": "select/12_檄!_帝国華撃団_(サクラ大戦)_Natsuko.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "檄! 帝国華撃団 - 改Ⅱ",
+      "artist": "横山 智佐 (真宮寺 さくら), 富沢 美智恵 (神崎 すみれ), 高乃 麗 (マリア・タチバナ), 西原 久美子 (アイリス), 渕崎 ゆり子 (李 紅蘭), 田中 真弓 (桐島 カンナ), 岡本 麻弥 (ソレッタ・織姫), 伊倉 一恵 (レニ・ミルヒシュトラーセ)",
+      "has_synced": false,
+      "path": "select/pl_01_檄!_帝国華撃団_-_改II_横山_智佐_(真宮寺_さくら),_富沢_美智恵_(神崎_すみれ),_高乃_麗_(マリア・タチバナ),_西原_久美子_(アイリス),_渕崎_ゆり子_(李_紅蘭),.txt"
+    }
+  ]
+}
